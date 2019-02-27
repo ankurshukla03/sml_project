@@ -17,29 +17,7 @@ There reasoning to support their final solution seems fair. They used Cross-vali
 Everything was in the report except references. Make sure to add references next time as they are really important especially when you write theoretical methods as well.
 
 5 - Comments about reflection task
-
-
-6 - Quality of the language in reflection task.
-Language Quality can be improved. It's always to proof read the report before submission as it can help in correcting many spelling mistakes and correct some sentence formation. Common spelling mistake was when they mentioned 'scikit-learn' package. Overall it was fine but it can be much better just by proof reading.Peer Review of the report from Group S393
-The Review is done by Group S413
-
-1 - Methods to explore is sufficiently large and there is a Dummy Classifier
-Yes they implemented atleast 4 methods from 4 different familier and checked the result for Dummy classifier as well. They made an assumption that Duration column won't be of any benefit as length of the song is unenssential when decided if you like it or not which should have been defended with the strong reasoning. Not enough reasoning or motivation was given for making conclusion about this assumption.
-
-2 - For all the methods implemented
-	a - Implement the method
-	b - Tune the method
-	c - Evaluate the method
-They Implemented Logistic regression, LDA, QDA, KNN and Tree based methods. For All the above mentioned algorithms they implemented, tuned and evaluated them. There was no mention about data normalization with logistic and KNN method as these methods are affected by the variation in numeric data.
-
-3 - Assessment of the technical quality of the proposed solution. Relevant way to address the problem and if there is any flaws in motivation/reasoning?
-There reasoning to support their final solution seems fair. They used Cross-validation to check which method is performing best for them. Just a little add up is they could have also looked at other metrices like recall, precision for making the decision else there reasoning seems pretty fair and good to me.
-
-4 - Check everything is included in the report or not
-Everything was in the report except references. Make sure to add references next time as they are really important especially when you write theoretical methods as well.
-
-5 - Comments about reflection task
-
+Arugments for reflection task were discussed seriously. Both the usage for the relfection task were discussed as an advantage and disadavantage, how it can help and how it can be of any harm. 
 
 6 - Quality of the language in reflection task.
 Language Quality can be improved. It's always to proof read the report before submission as it can help in correcting many spelling mistakes and correct some sentence formation. Common spelling mistake was when they mentioned 'scikit-learn' package. Overall it was fine but it can be much better just by proof reading.
